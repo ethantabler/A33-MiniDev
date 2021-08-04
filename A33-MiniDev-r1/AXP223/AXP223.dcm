@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AXP223
+D PMIC Optimized For Multi-Core High-Performance System
+K
+F http://dl.linux-sunxi.org/AXP/AXP223-en.pdf
+$ENDCMP
+#
+#End Doc Library
