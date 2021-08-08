@@ -3,4 +3,5 @@
   (lib (name AXP223)(type Legacy)(uri ${KIPRJMOD}/AXP223/AXP223.lib)(options "")(descr ""))
   (lib (name 2171750001)(type Legacy)(uri ${KIPRJMOD}/USB-C_Molex/2171750001.lib)(options "")(descr ""))
   (lib (name XF3M_1_-1515-1B)(type Legacy)(uri "${KIPRJMOD}/XF3M(1) FPC/XF3M_1_-1515-1B.lib")(options "")(descr ""))
+  (lib (name IS43TR16640CL-125JBLI)(type Legacy)(uri "${KIPRJMOD}/IS43TR16640CL - 1GB RAM/IS43TR16640CL-125JBLI.lib")(options "")(descr ""))
 )

@@ -3,4 +3,5 @@
   (lib (name AXP223)(type KiCad)(uri ${KIPRJMOD}/AXP223)(options "")(descr ""))
   (lib (name USB-C_Molex)(type KiCad)(uri ${KIPRJMOD}/USB-C_Molex)(options "")(descr ""))
   (lib (name "XF3M(1) FPC")(type KiCad)(uri "${KIPRJMOD}/XF3M(1) FPC")(options "")(descr ""))
+  (lib (name IS43TR16640CL-125JBLI)(type Legacy)(uri "${KIPRJMOD}/IS43TR16640CL - 1GB RAM/IS43TR16640CL-125JBLI.mod")(options "")(descr ""))
 )

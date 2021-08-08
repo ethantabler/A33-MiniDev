@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS43TR16640CL-125JBLI
+D DRAM 1G, 1.35V, DDR3, 64Mx16, 1600MT/s @ 10-10-10, 96 ball BGA (9mm x13mm) RoHS. IT
+K
+F https://www.issi.com/WW/pdf/43-46TR16640C-81280CL.pdf
+$ENDCMP
+#
+#End Doc Library
