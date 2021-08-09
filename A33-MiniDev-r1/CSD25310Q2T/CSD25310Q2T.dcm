@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD25310Q2T
+D MOSFET CSD25310Q2 20 V P-Channel NexFET Power MOSFETs
+K
+F https://www.arrow.com/en/products/csd25310q2t/texas-instruments
+$ENDCMP
+#
+#End Doc Library
