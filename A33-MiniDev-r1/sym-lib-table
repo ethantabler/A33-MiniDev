@@ -5,4 +5,8 @@
   (lib (name XF3M_1_-1515-1B)(type Legacy)(uri "${KIPRJMOD}/XF3M(1) FPC/XF3M_1_-1515-1B.lib")(options "")(descr ""))
   (lib (name IS43TR16640CL-125JBLI)(type Legacy)(uri "${KIPRJMOD}/IS43TR16640CL - 1GB RAM/IS43TR16640CL-125JBLI.lib")(options "")(descr ""))
   (lib (name CSD25310Q2T)(type Legacy)(uri ${KIPRJMOD}/CSD25310Q2T/CSD25310Q2T.lib)(options "")(descr ""))
+  (lib (name ATWILC3000-MR110UA)(type Legacy)(uri ${KIPRJMOD}/ATWILC3000-MR110UA/ATWILC3000-MR110UA.lib)(options "")(descr ""))
+  (lib (name A33-MiniDev-r1-rescue)(type Legacy)(uri ${KIPRJMOD}/A33-MiniDev-r1-rescue.lib)(options "")(descr ""))
+  (lib (name A33-MiniDev)(type Legacy)(uri ${KIPRJMOD}/Misc-Symbols/A33-MiniDev.lib)(options "")(descr ""))
+  (lib (name MEM2051-00-195-00-A)(type Legacy)(uri ${KIPRJMOD}/SD-Card-Slot/MEM2051-00-195-00-A.lib)(options "")(descr ""))
 )

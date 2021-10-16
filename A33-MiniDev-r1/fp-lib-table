@@ -1,8 +1,10 @@
 (fp_lib_table
-  (lib (name A33)(type KiCad)(uri ${KIPRJMOD}/A33)(options "")(descr ""))
   (lib (name AXP223)(type KiCad)(uri ${KIPRJMOD}/AXP223)(options "")(descr ""))
   (lib (name USB-C_Molex)(type KiCad)(uri ${KIPRJMOD}/USB-C_Molex)(options "")(descr ""))
   (lib (name "XF3M(1) FPC")(type KiCad)(uri "${KIPRJMOD}/XF3M(1) FPC")(options "")(descr ""))
   (lib (name IS43TR16640CL-125JBLI)(type Legacy)(uri "${KIPRJMOD}/IS43TR16640CL - 1GB RAM/IS43TR16640CL-125JBLI.mod")(options "")(descr ""))
   (lib (name CSD25310Q2T)(type Legacy)(uri ${KIPRJMOD}/CSD25310Q2T/CSD25310Q2T.mod)(options "")(descr ""))
+  (lib (name ATWILC3000)(type KiCad)(uri ${KIPRJMOD}/ATWILC3000-MR110UA/ATWILC3000.pretty)(options "")(descr ""))
+  (lib (name A33)(type KiCad)(uri ${KIPRJMOD}/A33/A33.pretty)(options "")(descr ""))
+  (lib (name MEM2051-00-195-00-A)(type Legacy)(uri ${KIPRJMOD}/SD-Card-Slot/MEM2051-00-195-00-A.mod)(options "")(descr ""))
 )
